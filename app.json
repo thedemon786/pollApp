@@ -1,0 +1,6 @@
+{
+"name": "node.js polling app",
+"description": "real time polling using pusher",
+"repository": "https://github.com/thedemon78/pollApp",
+"keywords": ["node", "heroku", "express"]
+}
